@@ -134,3 +134,4 @@ contract PartyPayment {
         return groups[groupId].joined[user];
     }
 }
+
